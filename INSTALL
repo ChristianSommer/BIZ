@@ -1,0 +1,9 @@
+Building BizCoin
+
+See doc/readme-qt.rst for instructions on building BizCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BizCoin.
+
+See doc/build-*.txt for instructions on building BizCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BizCoin.
